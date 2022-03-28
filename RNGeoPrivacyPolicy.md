@@ -1,4 +1,4 @@
-RNGeo Privacy Policy
+## RNGeo Privacy Policy
 
 Welcome to RNGeo's Privacy Policy.
 This Android app was fully developed by MLR, just like anyone, I take pirvacy very seriously
@@ -11,5 +11,7 @@ If you find any security threats or have any questions, feel free to shoot me an
 Thank you, 
 
 MLR
+
 Email: mlrdev22@gmail.com
+
 Twitter: MLR_Dev
